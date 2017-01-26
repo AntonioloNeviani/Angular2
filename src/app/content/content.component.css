@@ -1,5 +1,6 @@
-.container{
-    width: 20%;
+.containerLogin{
+    width: 100%;
+    float:left;
     margin: 4px 4px;
     border: 1px solid black;
     padding: 3px;
@@ -10,7 +11,17 @@
     color: #fff;
 }
 .bodyDiv{
-    border: 1px solid gray;
+    float:left;
     width: 100%;
     height: 100%;
+}
+.bars{
+    border: 1px solid gray;
+    float:left;
+    width:20%;
+}
+.center{
+    border: 1px solid gray;
+    float:left;
+    width: 59%
 }
