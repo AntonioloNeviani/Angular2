@@ -1,0 +1,12 @@
+.containerLogin{
+    width: 100%;
+    float:left;
+    margin: 4px 4px;
+    border: 1px solid black;
+    padding: 3px;
+    background-color: #4f81bd;
+    text-transform: lowercase; 
+    text-align: left; 
+    font-size: 15px; 
+    color: #fff;
+}

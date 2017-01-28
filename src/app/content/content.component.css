@@ -1,16 +1,16 @@
-.container{
-    width: 20%;
-    margin: 4px 4px;
-    border: 1px solid black;
-    padding: 3px;
-    background-color: #4f81bd;
-    text-transform: lowercase; 
-    text-align: left; 
-    font-size: 15px; 
-    color: #fff;
-}
+
 .bodyDiv{
-    border: 1px solid gray;
+    float:left;
     width: 100%;
     height: 100%;
+}
+.bars{
+    border: 1px solid gray;
+    float:left;
+    width:20%;
+}
+.center{
+    border: 1px solid gray;
+    float:left;
+    width: 59%
 }
