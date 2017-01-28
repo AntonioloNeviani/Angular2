@@ -1,0 +1,35 @@
+.sidenav-header {
+  background: #333;
+  color: white;
+}
+.sidenav-body {
+  background: whitesmoke;
+  color: #333;
+}
+.sidenav-footer {
+  background: #333;
+  height: 15px;
+}
+h1 {
+  margin: 0;
+  padding: 10px 5px;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+li a {
+  display: block;
+  width: 100%;
+  padding: 10px 5px;
+}
+
+li a:hover {
+  background: antiquewhite;
+}
